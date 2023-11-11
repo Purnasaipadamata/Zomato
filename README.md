@@ -1,1 +1,1 @@
-# Zomato-2.0
+# Zomato
